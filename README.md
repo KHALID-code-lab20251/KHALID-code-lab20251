@@ -1,3 +1,5 @@
+# PRESENTACIÓN 
+
 - 👋 Hola , soy Khalid Ourghi Haddini, estudiante de murciaeduca
 - 👀 Interesado en aprender desarrollo de aplicaciones web
 - 🌱 Actualmente estoy cursando el ciclo formativo de grado superior de desarrollo de aplicaciones web.
@@ -5,6 +7,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## SOBRE MÍ
+
+
 
 <!---
 KHALID-code-lab20251/KHALID-code-lab20251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
