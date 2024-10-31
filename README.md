@@ -37,9 +37,13 @@ FORMACIÓN PROFESIONAL DE GRADO SUPERIOR : TÉCNICO SUPERIOR EN DESARROLLO DE AP
 ### 5 - TECNOLOGÍAS CONOCIDAS :
 
 1- HTML
+
 2- CSS
+
 3-JAVASCRIPT
+
 4-JAVA
+
 5-VSCODE
 
 ---
@@ -48,26 +52,29 @@ FORMACIÓN PROFESIONAL DE GRADO SUPERIOR : TÉCNICO SUPERIOR EN DESARROLLO DE AP
 ### 6- LISTA TECNOLOGÍAS DEL CURSO :
 - Frameworks : 
                    - React
-				       - Node.js
-				           - Express
+		   - Node.js
+		   - Express
+  
 - Bases de datos :
                    - My Squel.
+  
 - Programación :
                    - Intellij
+  
 - Lenguaje de marcas : 
                   - HTML
-				     -CSS
-				        -JAVASCRIPT
+		  -CSS
+		  -JAVASCRIPT
 
 ### 7- PREFERENCIAS TECNOLÓGICAS :
 
              - Frontend
-			 - Backend
+	     - Backend
 
 
 
 
-> "Un programador tiene un problema y decide usar expresiones regulares; ahora tiene dos problemas"
+> Un programador tiene un problema y decide usar expresiones regulares; ahora tiene dos problemas
 
 
 ![Programación](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2021/03/marca-personal-para-ingenieros-de-software-1-1024x768.jpg)
